@@ -1,3 +1,6 @@
+#!/bin/env -S pyboots --html http://automationmd/virtualenv/metrics/requirements.txt  --require 3.12 --rebuild-on-changes
+
+
 """
 SSO Server - Central authentication server for single sign-on
 """

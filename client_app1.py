@@ -1,3 +1,5 @@
+#!/bin/env -S pyboots --html http://automationmd/virtualenv/metrics/requirements.txt  --require 3.12 --rebuild-on-changes
+
 """
 Client Application 1 - Example app using SSO authentication
 """
